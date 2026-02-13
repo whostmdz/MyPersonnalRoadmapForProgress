@@ -1,0 +1,11 @@
+- argc (argument count) 
+- argv (argument of vectors, he s like an array of pointers into strings C).
+
+return 0; is essential because it tells to os if the programm is finished(0 saids it's good)
+
+C-strings : In C, a string is not a special type. It's an array of char who's finished by a bare byte. '\0' = value 0.
+The length isn't stocked. To know the lenght we need to go through until 0.
+/!\ If we dont write this '\0' it can happen an overflow or a crash.
+
+
+
