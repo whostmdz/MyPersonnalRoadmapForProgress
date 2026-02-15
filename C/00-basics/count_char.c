@@ -11,7 +11,4 @@ int count_char(const char *s, char c){
   return cpt;
 }
 
-int main(){
-  printf("%d\n", count_char("banana", 'a'));
-  return 0;
-}
+
