@@ -6,3 +6,4 @@ Ex : A lion and an elephant are an animal, so they are in the same : class Anima
 Implementation : We are using Implementation when we have 2 differents objects, and we want to give the capacity to do something.
 Ex : A square and a circle, its 2 differents objects. We want to calculate the area of each so we can do an Implementation in the class Shape who
 have the method computeArea for example. the object will have : public class Square implements Shape{}
+
